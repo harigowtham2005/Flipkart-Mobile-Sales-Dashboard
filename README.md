@@ -86,7 +86,7 @@ Flipkart-Mobile-Sales-Dashboard/
 
 > Add your dashboard screenshot below.
 
-![Dashboard Preview](Dashboard_Screenshot.png)
+![Dashboard Preview](Screenshot 2026-06-04 225138.png)
 
 ---
 
