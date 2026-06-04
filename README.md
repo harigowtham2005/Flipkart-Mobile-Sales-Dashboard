@@ -119,8 +119,8 @@ This dashboard enables stakeholders to:
 Aspiring Data Analyst | Power BI Enthusiast | Python & SQL Learner
 
 ### Connect With Me
-- LinkedIn: [Add Your LinkedIn Profile]
-- GitHub: [Add Your GitHub Profile]
+- LinkedIn: https://www.linkedin.com/in/harigowtham2005/
+- GitHub: https://github.com/harigowtham2005
 
 ---
 
